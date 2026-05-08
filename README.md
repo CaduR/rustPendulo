@@ -17,3 +17,7 @@ Certifique-se de ter o Rust instalado (rustup).
 Clone este repositório.
 No terminal, execute:
 cargo run
+
+<img width="400" height="255" alt="pendulo" src="https://github.com/user-attachments/assets/743fec8b-34cc-43ca-9490-f601854584b6" />
+
+
