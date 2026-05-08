@@ -15,3 +15,8 @@ Certifique-se de ter o Rust instalado (rustup).
 Clone este repositório.
 No terminal, execute:
 cargo run
+
+
+
+https://github.com/user-attachments/assets/7114edc9-6977-4bce-8cd2-45950a92ef9d
+
