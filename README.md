@@ -16,7 +16,6 @@ Clone este repositório.
 No terminal, execute:
 cargo run
 
+<img width="400" height="255" alt="pendulo" src="https://github.com/user-attachments/assets/743fec8b-34cc-43ca-9490-f601854584b6" />
 
-
-https://github.com/user-attachments/assets/7114edc9-6977-4bce-8cd2-45950a92ef9d
 
